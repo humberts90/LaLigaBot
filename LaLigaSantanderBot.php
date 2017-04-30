@@ -5,7 +5,7 @@
 *   La API de football-data es un servicio de prueba gratuito, se utilizo para experimentar un poco con el API de Telegras
 *
 */
-class LaLigaAppBot
+class LaLigaBot
 {
     private $token;
     private $apiURL;
@@ -193,6 +193,6 @@ class LaLigaAppBot
 
 }
 
-$laLiga = new LaLigaAppBot('<ID de tu Bot>');
+$laLiga = new LaLigaBot('<ID de tu Bot>');
 $laLiga->setTokenAPILiga('<ID API de football-data>');
 $laLiga->playAPI();
