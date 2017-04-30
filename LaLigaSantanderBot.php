@@ -2,7 +2,7 @@
 
 /*
 *
-*   La API de football-data es un servicio de prueba gratuito, se utilizo para experimentar un poco con el API de Telegras
+*   La API de football-data es un servicio de prueba gratuito, se utilizo para experimentar un poco con el API de Telegram
 *
 */
 class LaLigaBot
